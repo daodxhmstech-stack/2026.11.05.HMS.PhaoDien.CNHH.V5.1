@@ -1,0 +1,3 @@
+1. Khối SOLAR_TOP của Schematic HMS_solar.schDoc thêm điện trở giá trị 2.7K( 0402) song song với biến trở 104, giữ nguyên điện trở 10K. Khi sản xuất sẽ ưu tiên hàn cặp trở 2,7k và 10K , còn biến trở 104 sẽ không hàn. Mục đích thêm điện trở 2.7k ôm để điện áp wakeup dưới 4V sẽ không thức dạy và trên 4.2V sẽ thức dạy, việc làm thêm điện trở 2.7k ôm để việc test và sản xuất được nhanh hơn không cần phải chỉnh biến trở.
+2. Khối NiMHCharge.schDoc thêm diode zener (30V,1/2W,kiểu SOD0-80) để bảo vệ ghim áp đầu vào.
+ 

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [HMS.PhaoDien.V5.1.PrjPcb]
+   Generated File[2026.11.04.HMS.PD.CNHH.V5.1.TXT]
+   Generated File[2026.11.04.HMS.PD.CNHH.V5.1.LDP]
+   Generated File[2026.11.04.HMS.PD.CNHH.V5.1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 08:09:51 AM On 05-Nov-26
